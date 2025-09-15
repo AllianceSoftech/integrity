@@ -1,6 +1,6 @@
 {
     "name": "theskillpedia/integrity",
-    "description": "Alliance Softech System Integrity Manager",
+    "description": "The SkillPedia System Integrity Manager",
     "keywords": [
         "alliancesoftech",
         "skillPedia"
@@ -9,7 +9,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "AllianceSoftech\\Integrity\\": "src/"
+            "TheSkillPedia\\Integrity\\": "src/"
         },
         "exclude-from-classmap": [
             "/tests/"
@@ -17,7 +17,7 @@
     },
     "autoload-dev": {
         "psr-4": {
-            "AllianceSoftech\\Integrity\\Tests\\": "tests/"
+            "TheSkillPedia\\Integrity\\Tests\\": "tests/"
         }
     },
     "authors": [
