@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace AllianceSoftech\Integrity;
+namespace TheSkillPedia\Integrity;
 
 use Firebase\JWT\JWT;
 use Firebase\JWT\Key;
